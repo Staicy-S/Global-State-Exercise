@@ -1,5 +1,6 @@
 import "./ThemeSelect.css";
 import { ThemeContext } from "../context/ThemeContext";
+//was muss ich denn ändern, damit changeTheme nicht als undefined gilt?
 
 export function ThemeSelect({ changeTheme }) {
   return (
