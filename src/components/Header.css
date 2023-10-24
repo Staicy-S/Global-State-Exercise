@@ -1,0 +1,6 @@
+header {
+  padding: 12px;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: space-between;
+}
